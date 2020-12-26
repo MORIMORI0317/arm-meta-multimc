@@ -5,6 +5,20 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2020-10-29T15:49:37+00:00",
+            "requires": [
+                {
+                    "equals": "3.2.2",
+                    "suggests": "3.2.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "b80ff98104b1e03527e51cdb7da279d929aecd795a66fac12886792724bf793e",
+            "type": "release",
+            "version": "1.16.4"
+        },
+        {
+            "recommended": true,
             "releaseTime": "2020-06-24T10:31:40+00:00",
             "requires": [
                 {
