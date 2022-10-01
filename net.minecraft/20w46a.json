@@ -5,22 +5,22 @@
     ],
     "assetIndex": {
         "id": "1.17",
-        "sha1": "a353b13d26df04a3aa6d17a193b591ab92c718ae",
-        "size": 342287,
-        "totalSize": 343651269,
-        "url": "https://launchermeta.mojang.com/v1/packages/a353b13d26df04a3aa6d17a193b591ab92c718ae/1.17.json"
+        "sha1": "368e1f53d7b7c96c9a882e170ae6c4356da97bcf",
+        "size": 346400,
+        "totalSize": 347866011,
+        "url": "https://launchermeta.mojang.com/v1/packages/368e1f53d7b7c96c9a882e170ae6c4356da97bcf/1.17.json"
     },
     "formatVersion": 1,
     "libraries": [
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "aef610b34a1be37fa851825f12372b78424d8903",
-                    "size": 15817,
-                    "url": "https://libraries.minecraft.net/com/mojang/patchy/1.1/patchy-1.1.jar"
+                    "sha1": "eb8bb7b66fa0e2152b1b40b3856e82f7619439ee",
+                    "size": 23581,
+                    "url": "https://libraries.minecraft.net/com/mojang/patchy/1.3.9/patchy-1.3.9.jar"
                 }
             },
-            "name": "com.mojang:patchy:1.1"
+            "name": "com.mojang:patchy:1.3.9"
         },
         {
             "downloads": {
@@ -225,22 +225,22 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "e801d13612e22cad62a3f4f3fe7fdbe6334a8e72",
-                    "size": 228859,
-                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar"
+                    "sha1": "f821a18687126c2e2f227038f540e7953ad2cc8c",
+                    "size": 301892,
+                    "url": "https://files.multimc.org/maven/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar"
                 }
             },
-            "name": "org.apache.logging.log4j:log4j-api:2.8.1"
+            "name": "org.apache.logging.log4j:log4j-api:2.16.0"
         },
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "4ac28ff2f1ddf05dae3043a190451e8c46b73c31",
-                    "size": 1402925,
-                    "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar"
+                    "sha1": "539a445388aee52108700f26d9644989e7916e7c",
+                    "size": 1789565,
+                    "url": "https://files.multimc.org/maven/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar"
                 }
             },
-            "name": "org.apache.logging.log4j:log4j-core:2.8.1"
+            "name": "org.apache.logging.log4j:log4j-core:2.16.0"
         },
         {
             "downloads": {
@@ -269,11 +269,6 @@
                         "sha1": "c0b242c0091be5acbf303263c7eeeaedd70544c7",
                         "size": 81379,
                         "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar"
-                    },
-                    "sources": {
-                        "sha1": "772a37dd77417571e6f119a8d306f0c14c2ee410",
-                        "size": 5332,
-                        "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-sources.jar"
                     }
                 }
             },
@@ -296,20 +291,10 @@
                     "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar"
                 },
                 "classifiers": {
-                    "javadoc": {
-                        "sha1": "fb0092f22cb4fe8e631452f577b7a238778abf2a",
-                        "size": 174060,
-                        "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-javadoc.jar"
-                    },
                     "natives-osx": {
                         "sha1": "08befab4894d55875f33c3d300f4f71e6e828f64",
                         "size": 5629,
                         "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar"
-                    },
-                    "sources": {
-                        "sha1": "865837a198189aee737019561ece842827f24278",
-                        "size": 43283,
-                        "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-sources.jar"
                     }
                 }
             },
